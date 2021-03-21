@@ -6,4 +6,7 @@ pipenv
 
 ## How to run:
 pipenv install </br>
-python FILENAME.py
+python clean_maestro_json.py </br>
+python get_spotify_ids.py \[spotify_token\] </br>
+python get_audio_features.py \[spotify_token\] </br>
+python visualize_audio_features.py
